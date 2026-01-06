@@ -1,4 +1,4 @@
-# Weather_React_App
+# weather_react_app
 A simple and responsive weather application built with **React** and **Vite** that allows users to check real-time weather information for any city.
 
 🔗 **Live Demo :** https://weather-react-app-2wbt.onrender.com/
