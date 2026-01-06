@@ -52,5 +52,5 @@ A simple and responsive weather application built with **React** and **Vite** th
 - Weather data provided by a public weather API
 - Built as an initial React project using Vite
 
-## Author
+## 👤 Author
 **Harsh Mishra**
