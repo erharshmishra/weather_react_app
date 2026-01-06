@@ -4,10 +4,10 @@ A simple and responsive weather application built with **React** and **Vite** th
 🔗 **Live Demo :** https://weather-react-app-2wbt.onrender.com/
 
 ## 📌 Features
-- Search weather by city name  
-- Displays temperature, weather condition, humidity, and wind speed  
-- Responsive and user-friendly UI  
-- Error handling for invalid city searches  
+- Search weather by city name.  
+- Displays temperature, weather condition, humidity, and wind speed.  
+- Responsive and user-friendly UI.  
+- Error handling for invalid city searches.  
 
 ## 🛠️ Tech Stack
 - React  
@@ -30,7 +30,7 @@ A simple and responsive weather application built with **React** and **Vite** th
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js installed on your system
+- Node.js installed on your system.
 
 ### Installation
 1. Clone the repository : git clone https://github.com/your-username/Weather_React_App.git
@@ -49,8 +49,8 @@ A simple and responsive weather application built with **React** and **Vite** th
 - Live URL : https://weather-react-app-2wbt.onrender.com/
 
 ## 🙌 Acknowledgements
-- Weather data provided by a public weather API
-- Built as an initial React project using Vite
+- Weather data provided by a public weather API.
+- Built as an initial React project using Vite.
 
 ## 👤 Author
 **Harsh Mishra**
